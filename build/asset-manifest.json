@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36616b78.css",
+    "main.js": "/static/js/main.45be65ae.js",
+    "static/media/oppenheimer_ver3_xxlg.jpg": "/static/media/oppenheimer_ver3_xxlg.c0a1022ee99167676a32.jpg",
+    "static/media/hoho.jpg": "/static/media/hoho.e3522ef07104ddb3a575.jpg",
+    "index.html": "/index.html",
+    "main.36616b78.css.map": "/static/css/main.36616b78.css.map",
+    "main.45be65ae.js.map": "/static/js/main.45be65ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36616b78.css",
+    "static/js/main.45be65ae.js"
+  ]
+}
